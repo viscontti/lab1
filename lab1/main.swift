@@ -9,4 +9,9 @@ import Foundation
 
 print("Hello, World!")
 
-// hello from veronika 
+// hello from veronika
+
+
+// hel o
+
+// hfafa
